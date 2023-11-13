@@ -1,5 +1,5 @@
 from __future__ import print_function
-from infi.systray import SysTrayIcon
+from src.infi.systray import SysTrayIcon
 import os
 import ctypes
 

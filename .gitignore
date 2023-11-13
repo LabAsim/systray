@@ -7,8 +7,13 @@
 *.bak
 *.egg-info
 *.EGG-INFO
+*.spec
 .coverage
 .settings
+exampl*
+
+# Pycharm
+.idea
 
 # eclipse
 .project
